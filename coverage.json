@@ -4,14 +4,14 @@
     "jurisdiction": 1,
     "measures": 0,
     "meetings": 0,
-    "offices": 4,
-    "officials": 58,
-    "sources": 7
+    "offices": 122,
+    "officials": 176,
+    "sources": 8
   },
   "gaps": [
     "chamber seats are the number of current members the officials cache resolves (Senate 39, Assembly 79); a vacancy makes that a lower bound on the chamber's statutory size",
     "the officials cache does not state whether each statewide office is elected or appointed, so the offices are labelled elected; a crowd submission in records/office corrects one that is appointed",
-    "the 118 state legislators the officials cache resolves are not emitted as official records in this state repo (the chamber bodies are); a later slice adds them by district",
+    "the 118 state legislators the officials cache resolves are emitted as official records, each linked to its chamber body and a district office created from the data",
     "no meeting or measure records: state bill and hearing ingestion is a later slice"
   ],
   "id": "jur:us-ca",
@@ -22,6 +22,7 @@
     "source:d67cc2aa6a7260fe",
     "source:f885d50ccb05f78b",
     "source:1ff83857c549a7a2",
+    "source:cfea16e3d23b1a16",
     "source:c6d4b0567ed921dc",
     "source:3382c277d794eaa1",
     "source:608526d4f038440a"

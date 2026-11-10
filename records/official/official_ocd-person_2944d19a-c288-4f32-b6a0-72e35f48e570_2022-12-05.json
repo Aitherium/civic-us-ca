@@ -1,0 +1,52 @@
+{
+  "body": "body:jur:us-ca-assembly",
+  "district": "28",
+  "generation": {
+    "at": "2026-11-10",
+    "content_hash": "sha256:bdddf057527b905201b1a314be8a3e8e4fe2af91309d4fa6c3771cf1ad773706",
+    "generator": "civic_repo_gen/0.1.0",
+    "source_snapshot": {
+      "law": "47a4f1a36ff92d20cd4f573143b89cf54ad58f44",
+      "officials": "2026-11-10T07:36:16Z",
+      "units": ""
+    }
+  },
+  "id": "official:ocd-person/2944d19a-c288-4f32-b6a0-72e35f48e570/2022-12-05",
+  "jurisdiction": "jur:us-ca",
+  "kind": "official",
+  "level": "state",
+  "office": "office:body:jur:us-ca-assembly/28",
+  "overrides": [],
+  "person": {
+    "full_name": "Gail Pellerin",
+    "party": "Democratic"
+  },
+  "privacy": "public-official",
+  "provenance": {
+    "added_at": "2026-11-10",
+    "added_by": "civic_repo_gen/0.1.0",
+    "evidence": {},
+    "sources": [
+      {
+        "license": "CC0-1.0",
+        "retrieved_at": "2026-11-10",
+        "source_id": "source:d67cc2aa6a7260fe",
+        "url": "https://github.com/openstates/people"
+      }
+    ],
+    "validated": {
+      "at": "2026-11-10",
+      "by": "civic_repo_gen/0.1.0",
+      "method": "generated-official"
+    },
+    "vouches": []
+  },
+  "schema_version": "civic/1",
+  "status": "current",
+  "term": {
+    "end": null,
+    "start": "2022-12-05",
+    "status": "current"
+  },
+  "title": "Gail Pellerin (State Representative)"
+}

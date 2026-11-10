@@ -1,0 +1,52 @@
+{
+  "body": "body:jur:us-ca-senate",
+  "district": "25",
+  "generation": {
+    "at": "2026-11-10",
+    "content_hash": "sha256:8a623e8d4fb3def9229a04f70f535d69ef0d564bf31377769d020393129c39ef",
+    "generator": "civic_repo_gen/0.1.0",
+    "source_snapshot": {
+      "law": "47a4f1a36ff92d20cd4f573143b89cf54ad58f44",
+      "officials": "2026-11-10T07:36:16Z",
+      "units": ""
+    }
+  },
+  "id": "official:ocd-person/aa59bbc8-0f05-4974-a88a-2e805deb26b4/2024-12-02",
+  "jurisdiction": "jur:us-ca",
+  "kind": "official",
+  "level": "state",
+  "office": "office:body:jur:us-ca-senate/25",
+  "overrides": [],
+  "person": {
+    "full_name": "Sasha Pérez",
+    "party": "Democratic"
+  },
+  "privacy": "public-official",
+  "provenance": {
+    "added_at": "2026-11-10",
+    "added_by": "civic_repo_gen/0.1.0",
+    "evidence": {},
+    "sources": [
+      {
+        "license": "CC0-1.0",
+        "retrieved_at": "2026-11-10",
+        "source_id": "source:d67cc2aa6a7260fe",
+        "url": "https://github.com/openstates/people"
+      }
+    ],
+    "validated": {
+      "at": "2026-11-10",
+      "by": "civic_repo_gen/0.1.0",
+      "method": "generated-official"
+    },
+    "vouches": []
+  },
+  "schema_version": "civic/1",
+  "status": "current",
+  "term": {
+    "end": null,
+    "start": "2024-12-02",
+    "status": "current"
+  },
+  "title": "Sasha Pérez (State Senator)"
+}

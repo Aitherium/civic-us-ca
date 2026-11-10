@@ -1,12 +1,12 @@
 {
   "body_type": "legislature",
   "generation": {
-    "at": "2026-11-09",
-    "content_hash": "sha256:8f30cf47290a02ab11d13f4e4d2554ca37f8e776062c7478767eb7e6502f0db1",
+    "at": "2026-11-10",
+    "content_hash": "sha256:972ba0d56efb608255070c3cc5ded141ec0b6b0ecfdfe6fdbfe155d825f08d3e",
     "generator": "civic_repo_gen/0.1.0",
     "source_snapshot": {
       "law": "47a4f1a36ff92d20cd4f573143b89cf54ad58f44",
-      "officials": "2026-11-09T17:45:25Z",
+      "officials": "2026-11-10T07:36:16Z",
       "units": ""
     }
   },
@@ -19,25 +19,25 @@
   "parent_body": null,
   "privacy": "public-record",
   "provenance": {
-    "added_at": "2026-11-09",
+    "added_at": "2026-11-10",
     "added_by": "civic_repo_gen/0.1.0",
     "evidence": {},
     "sources": [
       {
         "license": "CC0-1.0",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-10",
         "source_id": "source:787cb1af1fcdda04",
         "url": "https://github.com/unitedstates/congress-legislators"
       },
       {
         "license": "CC0-1.0",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-10",
         "source_id": "source:d67cc2aa6a7260fe",
         "url": "https://github.com/openstates/people"
       }
     ],
     "validated": {
-      "at": "2026-11-09",
+      "at": "2026-11-10",
       "by": "civic_repo_gen/0.1.0",
       "method": "generated-official"
     },

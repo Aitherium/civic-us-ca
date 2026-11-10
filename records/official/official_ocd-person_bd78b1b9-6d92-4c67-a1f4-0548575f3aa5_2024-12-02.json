@@ -1,0 +1,52 @@
+{
+  "body": "body:jur:us-ca-senate",
+  "district": "35",
+  "generation": {
+    "at": "2026-11-10",
+    "content_hash": "sha256:83ba37a424a61e77992a269e50408f6e5f93d3b6c94d22cc8a3e0f469f52c6f1",
+    "generator": "civic_repo_gen/0.1.0",
+    "source_snapshot": {
+      "law": "47a4f1a36ff92d20cd4f573143b89cf54ad58f44",
+      "officials": "2026-11-10T07:36:16Z",
+      "units": ""
+    }
+  },
+  "id": "official:ocd-person/bd78b1b9-6d92-4c67-a1f4-0548575f3aa5/2024-12-02",
+  "jurisdiction": "jur:us-ca",
+  "kind": "official",
+  "level": "state",
+  "office": "office:body:jur:us-ca-senate/35",
+  "overrides": [],
+  "person": {
+    "full_name": "Laura Richardson",
+    "party": "Democratic"
+  },
+  "privacy": "public-official",
+  "provenance": {
+    "added_at": "2026-11-10",
+    "added_by": "civic_repo_gen/0.1.0",
+    "evidence": {},
+    "sources": [
+      {
+        "license": "CC0-1.0",
+        "retrieved_at": "2026-11-10",
+        "source_id": "source:d67cc2aa6a7260fe",
+        "url": "https://github.com/openstates/people"
+      }
+    ],
+    "validated": {
+      "at": "2026-11-10",
+      "by": "civic_repo_gen/0.1.0",
+      "method": "generated-official"
+    },
+    "vouches": []
+  },
+  "schema_version": "civic/1",
+  "status": "current",
+  "term": {
+    "end": null,
+    "start": "2024-12-02",
+    "status": "current"
+  },
+  "title": "Laura Richardson (State Senator)"
+}

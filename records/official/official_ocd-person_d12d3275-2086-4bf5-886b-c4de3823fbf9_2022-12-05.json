@@ -1,0 +1,52 @@
+{
+  "body": "body:jur:us-ca-assembly",
+  "district": "40",
+  "generation": {
+    "at": "2026-11-10",
+    "content_hash": "sha256:a2f48b936cfa5f6b9e8628b2de82496d76aa94a08ac6ec052e684de0f36fa5d0",
+    "generator": "civic_repo_gen/0.1.0",
+    "source_snapshot": {
+      "law": "47a4f1a36ff92d20cd4f573143b89cf54ad58f44",
+      "officials": "2026-11-10T07:36:16Z",
+      "units": ""
+    }
+  },
+  "id": "official:ocd-person/d12d3275-2086-4bf5-886b-c4de3823fbf9/2022-12-05",
+  "jurisdiction": "jur:us-ca",
+  "kind": "official",
+  "level": "state",
+  "office": "office:body:jur:us-ca-assembly/40",
+  "overrides": [],
+  "person": {
+    "full_name": "Pilar Schiavo",
+    "party": "Democratic"
+  },
+  "privacy": "public-official",
+  "provenance": {
+    "added_at": "2026-11-10",
+    "added_by": "civic_repo_gen/0.1.0",
+    "evidence": {},
+    "sources": [
+      {
+        "license": "CC0-1.0",
+        "retrieved_at": "2026-11-10",
+        "source_id": "source:d67cc2aa6a7260fe",
+        "url": "https://github.com/openstates/people"
+      }
+    ],
+    "validated": {
+      "at": "2026-11-10",
+      "by": "civic_repo_gen/0.1.0",
+      "method": "generated-official"
+    },
+    "vouches": []
+  },
+  "schema_version": "civic/1",
+  "status": "current",
+  "term": {
+    "end": null,
+    "start": "2022-12-05",
+    "status": "current"
+  },
+  "title": "Pilar Schiavo (State Representative)"
+}
